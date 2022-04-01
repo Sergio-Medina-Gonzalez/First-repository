@@ -5,5 +5,5 @@ For any questions/doubs please refere to the following paper https://www.science
 Else, contact samedina@uach.mx 
 More info: https://sites.google.com/uach.mx/uach-fcq-ca71/integrantes/dr-sergio-medina?authuser=1  
 
-![](https://github.com/Sergio-Medina-Gonzalez/First-repository/commit/d9ac6075406444d1d7459f1fa03d734ce7ec2c30)
+![Modularity Network for Pearson=0.95](https://github.com/Sergio-Medina-Gonzalez/First-repository/blob/main/Pearson_0.97.png)
 
